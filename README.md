@@ -51,7 +51,7 @@ Here is a snapshot of the collected data:
 
 ## 📈 Visualization
 
-![Bar Chart of Book Prices](book_prices_plot.png)
+![Bar Chart of Book Prices](book_prices_plot (3).png)
 
 > A clear view of price differences among the first 10 books.
 
